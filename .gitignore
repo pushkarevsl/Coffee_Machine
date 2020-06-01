@@ -1,0 +1,23 @@
+# Project exclude paths
+/.gradle/
+/Coffee Machine/task/build/
+/Coffee Machine/task/out/
+/Coffee Machine/task/out/production/classes/
+/Problems/Balance management/out/
+/Problems/Balance management/out/production/classes/
+/Problems/Cinema/out/
+/Problems/Cinema/out/production/classes/
+/Problems/Days of week/out/
+/Problems/Days of week/out/production/classes/
+/Problems/Maximum element in a matrix/out/
+/Problems/Maximum element in a matrix/out/production/classes/
+/Problems/Project constants and methods/out/
+/Problems/Project constants and methods/out/production/classes/
+/Problems/Rotate a rectange array/out/
+/Problems/Rotate a rectange array/out/production/classes/
+/Problems/Symmetric matrix/out/
+/Problems/Symmetric matrix/out/production/classes/
+/Problems/The secret enumeration/out/
+/Problems/The secret enumeration/out/production/classes/
+/Problems/Too many cats/out/
+/Problems/Too many cats/out/production/classes/
